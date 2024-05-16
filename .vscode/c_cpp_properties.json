@@ -1,0 +1,22 @@
+{
+    "configurations": [
+        {
+            "name": "RP2040",
+            "includePath": [
+                "${PICO_SDK_PATH}/**/*",
+                "${workspaceFolder}/include/*"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "windowsSdkVersion": "10.0.22621.0",
+            "compilerPath": "C:\\ARM\\Toolchain\\10 2021.10\\bin\\arm-none-eabi-g++.exe",
+            "cStandard": "c17",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "windows-gcc-arm"
+        }
+    ],
+    "version": 4
+}
